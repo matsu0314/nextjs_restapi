@@ -9,6 +9,7 @@ django-templated-mail==1.1.1
 djangorestframework==3.11.1
 djangorestframework-simplejwt==4.6.0
 djoser==2.0.3
+gunicorn @ file:///opt/concourse/worker/volumes/live/f958ac2d-63e5-4751-6df7-f751b636b35e/volume/gunicorn_1617120640046/work
 PyJWT==2.0.0
 python-decouple==3.6
 pytz==2022.7
