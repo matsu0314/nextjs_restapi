@@ -97,9 +97,6 @@ WSGI_APPLICATION = 'rest_api.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/3.1/ref/settings/#databases
-
-# Database
-# https://docs.djangoproject.com/en/3.1/ref/settings/#databases
 if DEBUG:
     DATABASES = {
         'default': {
